@@ -6,6 +6,8 @@ body {
 	width: 90%;
 	margin: 0 auto;
 	background-image: url("Christmas.jpg");}
+h1 {
+	font-family: 'GowaRegular';}
 #content {
 	overflow: auto;}
 #nav, #feature, #footer {
