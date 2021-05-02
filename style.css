@@ -14,8 +14,7 @@ body {
 	float: left;
 	margin: 1%;}
 .column3 {
-	margin-right: 0%;
-	background-color:#3BC330;}
+	margin-right: 0%;}
 li {
 	display: inline;
 	padding: 0.5em;}
@@ -25,4 +24,4 @@ li {
 #feature, .article {
 	height: 10em;
 	margin-bottom: 1em;
-background-color: #efefef;}
+background-color: #3BC330;}
