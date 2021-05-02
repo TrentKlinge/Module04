@@ -22,7 +22,10 @@ body {
 .column1 {
 	background-color: #E3F042;}
 #feature {
-	background-color: #C03CC8;}
+	background-color: #C03CC8;
+	background-image: url("Christmas_tree");
+	background-repeat: no-repeat;
+	background-position: right center;}
 li {
 	display: inline;
 	padding: 0.5em;}
