@@ -14,12 +14,13 @@ body {
 	float: left;
 	margin: 1%;}
 .column3 {
-	margin-right: 0%;}
+	margin-right: 0%;
+	background-color: #3BC330;}
 li {
 	display: inline;
 	padding: 0.5em;}
 #nav, #footer {
-	background-color: #efefef;
+	background-color: #C83C53;
 	padding: 0.5em 0;}
 #feature, .article {
 	height: 10em;
