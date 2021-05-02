@@ -15,7 +15,13 @@ body {
 	margin: 1%;}
 .column3 {
 	margin-right: 0%;
-	background-color: #3BC330;}
+	background-color: #C83C53;}
+.column2 {
+	background-color: #3CC85B;}
+.column3 {
+	background-color: #3CC4C8;}
+#feature {
+	background-color: #C03CC8;}
 li {
 	display: inline;
 	padding: 0.5em;}
@@ -24,5 +30,4 @@ li {
 	padding: 0.5em 0;}
 #feature, .article {
 	height: 10em;
-	margin-bottom: 1em;
-background-color: #3BC330;}
+	margin-bottom: 1em;}
